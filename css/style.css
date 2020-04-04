@@ -46,7 +46,7 @@ Responsive media queries
 ***********************************/
 
 .header {
-  background: url('../img/background2.jpg') no-repeat fixed;
+  background: url('../img/background2.JPG') no-repeat fixed;
   background-size: cover;
   min-height: 630px;
   position: center;
